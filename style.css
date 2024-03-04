@@ -1,0 +1,83 @@
+
+.divmain {
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 30px;
+  width: 50%;
+  border: 2px solid black;
+  height: 100%;
+  background-color: 50623A;
+  box-shadow: 1px 1px 20px 2px red;
+}
+.divimage1 {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+  width: 34%;
+  height: 250px;
+  border: 2px dashed black;
+  background-color: 50623A;
+  box-shadow: 1px 1px 20px 2px red;
+}
+.divimage2 {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width: 75%;
+  height: 250px;
+  border: 2px dashed black;
+  background-color: 50623A;
+  box-shadow: 1px 1px 20px 2px red;
+}
+body {
+  background-color: #50623a;
+}
+
+.leonardo {
+  text-align: center;
+  color: white;
+  margin-top: 30px;
+  font-family: "Fugaz One", sans-serif;
+  text-decoration: underline rgb(247, 157, 157);
+  text-shadow: 1px 2px 5px red;
+}
+img {
+  height: 100%;
+  width: 100%;
+}
+p {
+  padding: 30px;
+  font-family: "Manrope", sans-serif;
+  line-height: 1.5;
+  text-align: justify;
+  font-size: 13px;
+  line-height: 20px;
+}
+p a {
+  text-shadow: 1px 1px 5px red;
+  color: white;
+  font-size: 18px;
+}
+.bas   {
+  font-size: 25px;
+  text-transform: uppercase;
+  text-shadow: 1px 1px 5px rgb(7, 7, 7);
+  color: aliceblue;
+  font-weight: bold;
+}
+.aksamyemeyi {
+  text-align: center;
+  font-size: 30px;
+  color: rgb(128, 6, 6);
+  margin-top: 0px;
+  text-transform: uppercase;
+  text-shadow: 1px 1px 5px white;
+  font-weight: bold;
+}
+.del{
+  color: rgb(128, 6, 6);
+  text-decoration: line-through black;
+  
+}
